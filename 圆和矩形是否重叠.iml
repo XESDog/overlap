@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="圆和矩形是否重叠">
+    <configurations>
+      <configuration name="圆和矩形是否重叠" pure-as="true" main-class="Main" output-file="Main.swf" output-folder="$MODULE_DIR$/out">
+        <dependencies target-player="21.0">
+          <entries>
+            <entry library-id="f12cbf2c-59c4-419b-9f60-35eed6b33ca8">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="AIRSDK21.0.tbz2" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="AIRSDK21.0.tbz2" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="f12cbf2c-59c4-419b-9f60-35eed6b33ca8" />
+        <CLASSES>
+          <root url="jar://$USER_HOME$/百度云同步盘/SWC/MinimalComps_cn.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
